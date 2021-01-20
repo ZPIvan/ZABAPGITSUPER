@@ -90,6 +90,9 @@ CLASS vehicle IMPLEMENTATION.
 
 ENDCLASS.
 
+**** HAnnnes was here
+
+
 START-OF-SELECTION.
   DATA newresult TYPE i.
   DATA(vehicle1) = NEW vehicle(
